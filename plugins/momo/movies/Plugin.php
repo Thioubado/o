@@ -13,7 +13,7 @@ class Plugin extends PluginBase
         
     }
 
-
+    // test pour voir si la modification a été prise en compte après le clone
     public function registerFormwidgets()
     {
         return[
